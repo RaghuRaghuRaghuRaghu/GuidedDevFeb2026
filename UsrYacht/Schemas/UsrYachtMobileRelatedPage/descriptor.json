@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "648c81b3-60a8-4288-9412-2a3a80a72861",
+    "Name": "UsrYachtMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1772650121000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Yacht (Mobile page settings)",
+    "DependsOn": []
+  }
+}
