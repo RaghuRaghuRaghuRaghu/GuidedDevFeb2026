@@ -394,6 +394,26 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 			},
 			{
 				"operation": "insert",
+				"name": "MultiSelect_n1i1e7z",
+				"values": {
+					"type": "crt.MultiSelect",
+					"label": "#ResourceString(MultiSelect_n1i1e7z_label)#",
+					"recordId": "$Id",
+					"recordRelationColumnName": "UsrParentYacht",
+					"selectSchemaName": "UsrYachtCategoryStorage",
+					"selectColumnName": "UsrCategory",
+					"visible": true,
+					"labelPosition": "auto",
+					"placeholder": "",
+					"tooltip": "",
+					"required": false
+				},
+				"parentName": "GeneralInfoTab",
+				"propertyName": "items",
+				"index": 1
+			},
+			{
+				"operation": "insert",
 				"name": "ExpansionPanel_uqe0qf2",
 				"values": {
 					"type": "crt.ExpansionPanel",
@@ -416,7 +436,7 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 				},
 				"parentName": "GeneralInfoTab",
 				"propertyName": "items",
-				"index": 1
+				"index": 2
 			},
 			{
 				"operation": "insert",
@@ -883,6 +903,9 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 						}
 					},
 					"GridDetail_9siat92_PredefinedFilter": {
+						"value": null
+					},
+					"MultiSelect_n1i1e7z_List_Items_Predefined_Filter": {
 						"value": null
 					}
 				}

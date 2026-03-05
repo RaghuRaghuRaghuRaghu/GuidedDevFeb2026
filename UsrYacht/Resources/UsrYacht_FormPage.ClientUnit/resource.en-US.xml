@@ -11,6 +11,7 @@
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_kf1zw6d_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_t4y1nzm_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.ManagerEmail_label.Value" Value="Manager Email" />
+			<Item Name="LocalizableStrings.MultiSelect_n1i1e7z_label.Value" Value="Categories" />
 			<Item Name="LocalizableStrings.PassengerCountCannotBeLess.Value" Value="Passengers count cannot be less than 2" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 200.0" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
