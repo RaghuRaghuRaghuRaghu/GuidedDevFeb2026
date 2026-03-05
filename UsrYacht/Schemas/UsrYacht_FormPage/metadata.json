@@ -36,6 +36,90 @@
   "A4": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
   "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9"
 }
++ MetaData.Schema.B2 {
+  "UId": "c3c6871f-085f-6248-00f1-884cacc61db4",
+  "A2": "addRecord_d9sym2h_caption",
+  "A3": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A4": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9"
+}
++ MetaData.Schema.B2 {
+  "UId": "fabb9f4c-8a0c-c6e5-4dcc-8fc0910ee782",
+  "A2": "addRecord_zdkthlk_caption",
+  "A3": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A4": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9"
+}
++ MetaData.Schema.B2 {
+  "UId": "1d201139-b6c7-7a25-3ab9-1add89921acf",
+  "A2": "ManagerEmail_label",
+  "A3": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A4": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9"
+}
++ MetaData.Schema.B2 {
+  "UId": "c0d59470-bc9d-6fa7-f6d0-7b315087ff63",
+  "A2": "PassengerCountCannotBeLess",
+  "A3": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A4": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9"
+}
++ MetaData.Schema.B2 {
+  "UId": "548f0d7d-c436-53cf-76c1-6bc182c77421",
+  "A2": "PriceCannotBeLess",
+  "A3": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A4": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9"
+}
++ MetaData.Schema.B2 {
+  "UId": "faa189af-0eb7-1502-91bd-dfacb1961851",
+  "A2": "GridDetailSearchFilter_kf1zw6d_placeholder",
+  "A3": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A4": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9"
+}
++ MetaData.Schema.B2 {
+  "UId": "1a1521c1-62fc-ccca-9603-2871d80e800a",
+  "A2": "GridDetailImportDataBtn_jupp0j5_caption",
+  "A3": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A4": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9"
+}
++ MetaData.Schema.B2 {
+  "UId": "5d6c8af7-37a3-0413-b89c-2693b11ef513",
+  "A2": "GridDetailExportDataBtn_6jsnfag_caption",
+  "A3": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A4": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9"
+}
++ MetaData.Schema.B2 {
+  "UId": "6cb6a57f-8f5e-670b-0a97-d47973f81938",
+  "A2": "GridDetailSettingsBtn_t4y1nzm_caption",
+  "A3": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A4": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9"
+}
++ MetaData.Schema.B2 {
+  "UId": "bc902cf2-4ee0-ae4d-94f6-9d2cd852d088",
+  "A2": "GridDetailRefreshBtn_nwojy7u_caption",
+  "A3": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A4": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9"
+}
++ MetaData.Schema.B2 {
+  "UId": "fe15123e-f241-61f4-1b56-91c9c6203935",
+  "A2": "GridDetailAddBtn_rpevrdi_caption",
+  "A3": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A4": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9"
+}
++ MetaData.Schema.B2 {
+  "UId": "4a09c3e5-47a4-3dec-ef22-b0896ca0f940",
+  "A2": "ExpansionPanel_uqe0qf2_title",
+  "A3": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A4": "332a30ca-d2f7-4ed9-9655-aef3f70b354c",
+  "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9"
+}
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A4 "332a30ca-d2f7-4ed9-9655-aef3f70b354c"
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A5 "c4d50eaf-6a76-4da5-9fce-1482155810c9"
 = MetaData.Schema.B2.["a77180d7-a9d0-5c7d-a47b-74c0545a1774"].A4 "332a30ca-d2f7-4ed9-9655-aef3f70b354c"
@@ -68,6 +152,18 @@
   "a686127d-2630-de0d-af6c-1d6f579f1a46",
   "4ceb2cff-763f-d618-bfef-c9c43c21f36a",
   "f835537d-f90a-503d-21fb-f52ec0748eb2",
+  "c3c6871f-085f-6248-00f1-884cacc61db4",
+  "fabb9f4c-8a0c-c6e5-4dcc-8fc0910ee782",
+  "1d201139-b6c7-7a25-3ab9-1add89921acf",
+  "c0d59470-bc9d-6fa7-f6d0-7b315087ff63",
+  "548f0d7d-c436-53cf-76c1-6bc182c77421",
+  "faa189af-0eb7-1502-91bd-dfacb1961851",
+  "1a1521c1-62fc-ccca-9603-2871d80e800a",
+  "5d6c8af7-37a3-0413-b89c-2693b11ef513",
+  "6cb6a57f-8f5e-670b-0a97-d47973f81938",
+  "bc902cf2-4ee0-ae4d-94f6-9d2cd852d088",
+  "fe15123e-f241-61f4-1b56-91c9c6203935",
+  "4a09c3e5-47a4-3dec-ef22-b0896ca0f940",
   "fd9e5bd2-19ad-68b5-1356-fe7b39d36f28",
   "a77180d7-a9d0-5c7d-a47b-74c0545a1774",
   "a53e6c9a-741a-21de-9293-9d87d6014595",
