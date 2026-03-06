@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7b89b6b3-8c3f-407c-9ccd-ad57186e7c3c",
+    "Name": "Accounts_FormPage",
+    "ModifiedOnUtc": "\/Date(1772793320000)\/",
+    "Parent": {
+      "UId": "22cc919e-9774-4117-b32d-39e829f2f197",
+      "Name": "Accounts_FormPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Accounts form page"
+  }
+}
