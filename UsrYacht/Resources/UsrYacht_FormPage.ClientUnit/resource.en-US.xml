@@ -17,6 +17,7 @@
 			<Item Name="LocalizableStrings.PassengerCountCannotBeLess.Value" Value="Passengers count cannot be less than 2" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 200.0" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.RunWebServiceMaxPriceMenuItem_caption.Value" Value="Run calc max price web service" />
 			<Item Name="LocalizableStrings.addRecord_1k4pbmg_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_axz13j4_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_d9sym2h_caption.Value" Value="Add new" />
