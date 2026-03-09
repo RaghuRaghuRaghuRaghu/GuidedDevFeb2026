@@ -3,6 +3,14 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 		viewConfigDiff: /**SCHEMA_VIEW_CONFIG_DIFF*/[
 			{
 				"operation": "merge",
+				"name": "SaveButton",
+				"values": {
+					"size": "large",
+					"iconPosition": "only-text"
+				}
+			},
+			{
+				"operation": "merge",
 				"name": "Tabs",
 				"values": {
 					"styleType": "default",
@@ -88,11 +96,10 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 						"request": "crt.RunBusinessProcessRequest",
 						"params": {
 							"processName": "UsrCalcAverageTicketPriceProcess",
-							"processRunType": "ForTheSelectedRecords",
+							"processRunType": "ForTheSelectedPage",
 							"saveAtProcessStart": true,
 							"showNotification": true,
-							"parameterMappings": {},
-							"selectionStateAttributeName": null
+							"recordIdProcessParameterName": "YachtId"
 						}
 					},
 					"icon": "calculator-icon"
