@@ -1,0 +1,105 @@
+﻿{
+  "Descriptor": {
+    "UId": "29361fac-2b36-f3e6-2d16-2aa0538ceede",
+    "Name": "UsrYacht_values",
+    "ModifiedOnUtc": "\/Date(1773146253000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "ce87c27b-0287-4cc9-bca5-cbcf55f2c19e",
+      "Name": "UsrYacht"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "201b6f6b-9db4-6e36-ab45-6c1bfed1a99e",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrDriveType",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "2f8a86de-fddc-52a9-3d01-224722a419ad",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrPassengersCount",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "3f88fcce-7efa-405a-b0b1-d6ad2939c8ff",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrName",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "69583f04-e3f1-5c77-5171-7a562845b1f5",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrPrice",
+        "DataTypeValueUId": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+      },
+      {
+        "ColumnUId": "6d7fe488-9e8d-74ee-c543-cac8d62b854d",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrStatus",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "8590bd28-8470-8407-fc91-e7529bd4ece8",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrComment",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "8d383bc3-0249-94d2-c758-3707d0d03e21",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrCountry",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "ae99764f-02be-c555-59c3-1ae039119cd9",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrTicketPrice",
+        "DataTypeValueUId": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+      },
+      {
+        "ColumnUId": "baa681f9-a753-c3bf-bb18-e87e27f4b471",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrLength",
+        "DataTypeValueUId": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+      },
+      {
+        "ColumnUId": "bb462799-bc39-8b22-311e-6e6c0b2a633f",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrNumber",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "ddb3d008-6062-e77d-1d52-78d4471e3880",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrCity",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "f838989d-30e7-e418-e0f1-6daa734e7089",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrCrewCount",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      }
+    ]
+  }
+}

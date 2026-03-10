@@ -19,6 +19,12 @@
         "PackageVersion": "7.8.0",
         "Name": "CrtCustomer360App",
         "Type": 1
+      },
+      {
+        "UId": "b46c9a61-913a-06b3-3622-aa9e4e2f7aa9",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtTechUserCreatioALMIntegration",
+        "Type": 1
       }
     ]
   }

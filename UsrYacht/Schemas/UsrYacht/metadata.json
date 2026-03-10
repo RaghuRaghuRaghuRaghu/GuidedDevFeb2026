@@ -153,6 +153,35 @@
   "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9",
   "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
 }
++ MetaData.Schema.D2 {
+  "UId": "f838989d-30e7-e418-e0f1-6daa734e7089",
+  "A2": "UsrCrewCount",
+  "A3": "ce87c27b-0287-4cc9-bca5-cbcf55f2c19e",
+  "A4": "ce87c27b-0287-4cc9-bca5-cbcf55f2c19e",
+  "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "06a2cdbb-e249-8b40-3677-7fb941c3fac3",
+  "A2": "UsrCaptain",
+  "A3": "ce87c27b-0287-4cc9-bca5-cbcf55f2c19e",
+  "A4": "ce87c27b-0287-4cc9-bca5-cbcf55f2c19e",
+  "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E20": true,
+  "E17": "UsrCaptainId",
+  "E18": "UsrCaptainName"
+}
++ MetaData.Schema.D2 {
+  "UId": "baa681f9-a753-c3bf-bb18-e87e27f4b471",
+  "A2": "UsrLength",
+  "A3": "ce87c27b-0287-4cc9-bca5-cbcf55f2c19e",
+  "A4": "ce87c27b-0287-4cc9-bca5-cbcf55f2c19e",
+  "A5": "c4d50eaf-6a76-4da5-9fce-1482155810c9",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
 ~ MetaData.Schema.D2 [
   "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
   "e80190a5-03b2-4095-90f7-a193a960adee",
@@ -170,7 +199,10 @@
   "6d7fe488-9e8d-74ee-c543-cac8d62b854d",
   "ddb3d008-6062-e77d-1d52-78d4471e3880",
   "8d383bc3-0249-94d2-c758-3707d0d03e21",
-  "ae99764f-02be-c555-59c3-1ae039119cd9"
+  "ae99764f-02be-c555-59c3-1ae039119cd9",
+  "f838989d-30e7-e418-e0f1-6daa734e7089",
+  "06a2cdbb-e249-8b40-3677-7fb941c3fac3",
+  "baa681f9-a753-c3bf-bb18-e87e27f4b471"
 ]
 = MetaData.Schema.D20.A2 "UsrYachtEvents"
 + MetaData.Schema.D20.FA1 false

@@ -120,6 +120,57 @@ define("UsrYachtRentalMiniPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**
 				"parentName": "MainContainer",
 				"propertyName": "items",
 				"index": 3
+			},
+			{
+				"operation": "insert",
+				"name": "Manager",
+				"values": {
+					"layoutConfig": {
+						"column": 1,
+						"colSpan": 1,
+						"row": 5,
+						"rowSpan": 1
+					},
+					"type": "crt.ComboBox",
+					"label": "$Resources.Strings.UsrYachtRentalDS_UsrManager_czypf47",
+					"ariaLabel": "",
+					"isAddAllowed": true,
+					"showValueAsLink": true,
+					"labelPosition": "above",
+					"controlActions": [],
+					"listActions": [],
+					"tooltip": "",
+					"control": "$UsrYachtRentalDS_UsrManager_czypf47",
+					"visible": true,
+					"readonly": false,
+					"placeholder": "",
+					"valueDetails": null
+				},
+				"parentName": "MainContainer",
+				"propertyName": "items",
+				"index": 4
+			},
+			{
+				"operation": "insert",
+				"name": "TotalPrice",
+				"values": {
+					"layoutConfig": {
+						"column": 1,
+						"colSpan": 1,
+						"row": 6,
+						"rowSpan": 1
+					},
+					"type": "crt.NumberInput",
+					"label": "$Resources.Strings.UsrYachtRentalDS_UsrTotalPrice_j2qvvs0",
+					"control": "$UsrYachtRentalDS_UsrTotalPrice_j2qvvs0",
+					"readonly": false,
+					"placeholder": "",
+					"labelPosition": "above",
+					"tooltip": ""
+				},
+				"parentName": "MainContainer",
+				"propertyName": "items",
+				"index": 5
 			}
 		]/**SCHEMA_VIEW_CONFIG_DIFF*/,
 		viewModelConfigDiff: /**SCHEMA_VIEW_MODEL_CONFIG_DIFF*/[
@@ -160,6 +211,29 @@ define("UsrYachtRentalMiniPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**
 					"UsrYachtRentalDS_UsrComment_hcfhsau": {
 						"modelConfig": {
 							"path": "UsrYachtRentalDS.UsrComment"
+						}
+					},
+					"UsrYachtRentalDS_UsrManager_czypf47": {
+						"modelConfig": {
+							"path": "UsrYachtRentalDS.UsrManager"
+						}
+					},
+					"UsrYachtRentalDS_UsrManager_czypf47_List": {
+						"isCollection": true,
+						"modelConfig": {
+							"sortingConfig": {
+								"default": [
+									{
+										"columnName": "Name",
+										"direction": "asc"
+									}
+								]
+							}
+						}
+					},
+					"UsrYachtRentalDS_UsrTotalPrice_j2qvvs0": {
+						"modelConfig": {
+							"path": "UsrYachtRentalDS.UsrTotalPrice"
 						}
 					}
 				}
